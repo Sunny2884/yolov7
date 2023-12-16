@@ -1,0 +1,6 @@
+train: dataset/my_zhuqian/train.txt
+val: dataset/my_zhuqian/val.txt
+
+nc: 2
+
+names: ['none','bamboo']
